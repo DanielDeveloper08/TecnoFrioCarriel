@@ -1,0 +1,6 @@
+{
+  "name": "LíneaBlanca Pro - Reparación",
+  "description": "Landing page moderna para servicios de venta, instalación y mantenimiento de electrodomésticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
